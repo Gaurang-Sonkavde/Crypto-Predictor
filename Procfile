@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run Cryptocur.py [ARGUMENTS]
+web: sh setup.sh && streamlit run Cryptocur.py
