@@ -6,6 +6,6 @@ pandas==1.3.2
 streamlit==0.87.0
 dateparser==1.0.0
 pystan==2.19.1.1
-fbprophet==0.7.2
+fbprophet==0.5
 yfinance==0.1.63
 
