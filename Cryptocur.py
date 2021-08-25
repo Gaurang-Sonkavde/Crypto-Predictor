@@ -6,6 +6,7 @@ import pandas as pd
 import streamlit as st
 import plotly.express as px
 from datetime import date
+import pystan as ps
 from fbprophet import Prophet
 from fbprophet.plot import plot_plotly
 from plotly import graph_objs as go
